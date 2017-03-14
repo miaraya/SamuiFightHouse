@@ -1,0 +1,45 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+
+#header,
+#header-wrap,
+#logo,
+#logo img,
+#primary-menu:not(.style-2),
+#primary-menu:not(.style-2) > ul,
+#primary-menu,
+#primary-menu ul,
+#primary-menu ul li a { height: 200; }
+
+	#header.transparent-header.full-header #primary-menu > ul {
+    border-right-color: transparent !important;
+}
+#page-menu.dots-menu nav li a
+{
+	background-color: yellow;
+
+}
+
+.navbar .nav > li > a:hover  {
+  color: red;
+}
+
+.red
+{
+	color:red !important;
+}
+
+.yellow
+{
+	color:yellow !important;
+}
+
+
+
+
+
