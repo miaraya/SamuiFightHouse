@@ -8962,7 +8962,7 @@ body:not(.device-touch) .social-icon i {
 .toggle.toggle-bg .toggleta {
 	background-color: #EEE;
 	line-height: 44px;
-	padding: 0 0 0 36px;
+	padding: 0 15px 0 36px;
 	border-radius: 2px;
 }
 
@@ -9004,6 +9004,7 @@ body:not(.device-touch) .social-icon i {
 	padding-bottom: 12px;
 	margin-bottom: 12px;
 }
+
 
 .faqs .toggle .togglet,
 .faqs .toggle .toggleta { font-size: 15px; }
