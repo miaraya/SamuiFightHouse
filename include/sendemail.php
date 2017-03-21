@@ -6,7 +6,7 @@ $toemails = array();
 
 $toemails[] = array(
 				'email' => 'miaraya@gmail.com', // Your Email Address
-				'name' => 'Ascent UAV lLtd' // Your Name
+				'name' => 'SAMUI FIGHT HOUSE' // Your Name
 			);
 
 // Form Processing Messages
