@@ -55,3 +55,6 @@ $route['translate_uri_dashes'] = FALSE;
 $route['faqs'] = 'SamuiFightHouse/faqs';
 $route['contact'] = 'SamuiFightHouse/contact';
 $route['sponsorship'] = 'SamuiFightHouse/sponsorship';
+$route['team'] = 'SamuiFightHouse/team';
+$route['training'] = 'SamuiFightHouse/training';
+$route['media'] = 'SamuiFightHouse/media';

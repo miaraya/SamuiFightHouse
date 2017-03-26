@@ -2,11 +2,11 @@
 
 	<ul class="nav-bar nav nav-pills">
 
-		<li class="current"><a href="index.html">HOME</a></li>						
-		<li><a href="training.html">TRAINING</a></li>
-		<li><a href="team.html">TEAM</a></li>
-		<li><a href="sponsor.html">SPONSORSHIP</a></li>
-		<li><a href="media.html">MEDIA</a></li>
+		<li><a href="<? echo base_url(); ?>">HOME</a></li>						
+		<li><a href="<?php echo site_url('training'); ?>">TRAINING</a></li>
+		<li><a href="<?php echo site_url('team'); ?>">TEAM</a></li>
+		<li><a href="<?php echo site_url('sponsorship'); ?>">SPONSORSHIP</a></li>
+		<li><a href="<?php echo site_url('media'); ?>">MEDIA</a></li>
 		<li><a href="<?php echo site_url('faqs'); ?>">FAQS</a></li>
 		<li><a href="<?php echo site_url('contact'); ?>">CONTACT</a></li>
 										

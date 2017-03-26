@@ -45,5 +45,36 @@
 			$this->load->view('sponsorView',$data);
 		}
 
+		public function team()
+		{
+			$this->load->helper('url');
+			$data = array(
+				'page_title' => 'Samui Fight House',
+				'header_title' => 'Team',
+				'header_description' => 'SAMUI FIGHT HOUSE has recruited the best trainers from around the world to its gym. In order to make you a successful fighter or just to get you in the most fit shape you have ever been, we ensure our instructors have the right knowledge and experience to work one-on-one with our students to achieve their personal goals.'
+			);
+			$this->load->view('teamView',$data);
+		}
+		public function training()
+		{
+			$this->load->helper('url');
+			$data = array(
+				'page_title' => 'Samui Fight House',
+				'header_title' => 'Training',
+				'header_description' => ''
+			);
+			$this->load->view('trainingView',$data);
+		}
+		public function media()
+		{
+			$this->load->helper('url');
+			$data = array(
+				'page_title' => 'Samui Fight House',
+				'header_title' => 'Media',
+				'header_description' => ''
+			);
+			$this->load->view('mediaView',$data);
+		}
+
 	}
 ?>
