@@ -30,7 +30,7 @@
 
 			<!-- Content
 			============================================= -->
-			<section class="nomargin section ">
+			<section class="nomargin nopadding section ">
 
 				<div class="row clearfix common-height ">
 
