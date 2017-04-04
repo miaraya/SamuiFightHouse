@@ -30,13 +30,11 @@
 
 			<!-- Content
 			============================================= -->
-			<section class="nomargin"  data-stellar-background-ratio="0.6">
-			
-				<div class="section content-wrap nomargin">
-					
+			<section class="nomargin section"  data-stellar-background-ratio="0.6">
+								
 					<div class="container clearfix">
-						
-						<div class="postcontent nobottommargin clearfix">
+					
+						<div class="postcontent nobottommargin">
 
 							<div id="faqs" class="">
 
@@ -119,7 +117,7 @@
 											</h3>
 										</div>
 										<div class="togglec">
-											<p class="lead">A:  Absolutely not.  All our instructors are fluent in English and Thai.  If you need assistance in other languages, please ask as we can generally accommodate your requirements.
+											<p class="lead">A:  Absolutely not. Our instructors are fluent in English, Thai and our staff speaks Sweedish and Spanish. If you need assistance in other languages, please ask as we can generally accommodate your requirements.
 											</p>
 
 										</div>
@@ -192,11 +190,11 @@
 											<h3 id="faq-10">
 												<i class="toggle-closed icon-plus"></i>
 												<i class="toggle-open icon-minus"></i>
-												Q:  Is it possible to rent a motorbikel?
+												Q:  Is it possible to rent a motorbike?
 											</h3>
 										</div>
 										<div class="togglec">
-											<p class="lead">A:  Yes, we can provide this service for you. 
+											<p class="lead">A:  Yes, we have motorbikes for rent at Samui Fight House. 
 
 											</p>
 										</div>
@@ -212,8 +210,7 @@
 
 						</div>
 					</div>
-				</div>
-			</section>
+				</section>
 
 			<!-- #content end -->
 

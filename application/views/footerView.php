@@ -7,20 +7,20 @@
 		<div class="container clearfix">
 
 			<div class="col_two_fifth">
-				<img src="images/logo-white.svg" alt="Footer Logo" class="footer-logo">
+				<img src="images/logo-white.png" alt="Footer Logo" class="footer-logo">
 
 				Copyrights &copy; 2017 All Rights Reserved by Samui Fight House.
 			</div>
 
 			<div class="col_three_fifth col_last tright">
 				<div class="copyrights-menu copyright-links fright clearfix">
-					<a href="index.html" >HOME</a>/
-					<a href="faqs.html">FAQS</a>/
-					<a href="training.html">TRAINING</a>/
-					<a href="team.html">TEAM</a>/
-					<a href="contact.html">CONTACT</a>/
-					<a href="sponsor.html">SPONSORSHIP</a>/
-					<a href="media.html">MEDIA</a>
+					<a href="<? echo base_url(); ?>">HOME</a>/
+					<a href="<?php echo site_url('training'); ?>">TRAINING</a>/
+					<a href="<?php echo site_url('team'); ?>">TEAM</a>/
+					<a href="<?php echo site_url('sponsorship'); ?>">SPONSORSHIP</a>/
+					<a href="<?php echo site_url('media'); ?>">MEDIA</a>
+					<a href="<?php echo site_url('faqs'); ?>">FAQS</a>/
+					<a href="<?php echo site_url('contact'); ?>">CONTACT</a>/
 					<div class="space"></div>
 				</div>
 				<div class="clear"></div>

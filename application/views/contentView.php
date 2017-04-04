@@ -128,7 +128,7 @@
 						<p class="t300" style="line-height: 1.8; background-color: rgba(0,0,0,0.45); padding:20px;">
 							Due to the popularity of MMA and Muay Thai in Thailand, there are many gyms in
 							Samui that advertise training. Samui Fight House stands out not just because of the
-							quality of instruction but because it’s maximum public class size is limited to 10. This
+							quality of instruction but because its maximum public class size is limited to 10. This
 							small size ensures you will receive a high quality of training and individual attention.
 							One-to- one personal sessions are also available either on site or in the privacy of your own home or hotel.
 						</p>

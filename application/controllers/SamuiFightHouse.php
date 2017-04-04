@@ -61,7 +61,7 @@
 			$data = array(
 				'page_title' => 'Samui Fight House',
 				'header_title' => 'Training',
-				'header_description' => ''
+				'header_description' => 'The Mission of <span class="yellow" style="display:inline;">SAMUI FIGHT HOUSE</span> is to keep no more than 10 visiting students outside of our international fight team, to ensure high quality training and individual attention with a family and team atmosphere.'
 			);
 			$this->load->view('trainingView',$data);
 		}

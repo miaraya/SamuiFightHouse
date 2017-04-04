@@ -11,8 +11,8 @@
 			
 			
 			<div id="logo">
-				<a href="<?php echo base_url(); ?>" class="standard-logo" data-dark-logo="<?php echo base_url(); ?>images/logo-yellow.svg"><img src="<?php echo base_url(); ?>images/logo-yellow.svg" alt="SAMUI FIGHT HOUSE"></a>
-				<a href="<?php echo base_url(); ?>" class="retina-logo" data-dark-logo="<?php echo base_url(); ?>images/logo-yellow.svg"><img src="<?php echo base_url(); ?>images/logo-yellow.svg" alt="SAMUI FIGHT HOUSE"></a>
+				<a href="<?php echo base_url(); ?>" class="standard-logo" data-dark-logo="<?php echo base_url(); ?>images/logo-yellow.png"><img src="<?php echo base_url(); ?>images/logo-yellow.svg" alt="SAMUI FIGHT HOUSE"></a>
+				<a href="<?php echo base_url(); ?>" class="retina-logo" data-dark-logo="<?php echo base_url(); ?>images/logo-yellow.png"><img src="<?php echo base_url(); ?>images/logo-yellow.svg" alt="SAMUI FIGHT HOUSE"></a>
 			</div>
 			
 			<!-- #logo end -->
@@ -29,44 +29,42 @@
 
 </header>
 
-<section id="page-title" class="page-title-parallax page-title-dark page-title-video">
+<section 	id="page-title" 
+			class="page-title-parallax page-title-dark" 
+			style="background-image: url('images/sean.jpg'); background-position:right; padding: 100px 0; background-color:black;" 
+			data-stellar-background-ratio="0.1">
 
-				<div class="video-wrap">
-					<video poster="<?php echo base_url(); ?>images/front-background.jpg" preload="auto" loop autoplay muted>
-						<source src='<?php echo base_url(); ?>images/videos/home_video.m4v' type='video/mp4' />
-					</video>
-					<div class="video-overlay"></div>
-				</div>
+	<div class="container clearfix">
 
-			
+		<div class="col_half">
+			<h1><?php echo $header_title; ?></h1>
+			<span>
+				<?php echo $header_description; ?>
+			</span>
+		</div>
 
-				<div class="container clearfix">
 
-					<div class="col_half">
-						<h1>
-								<?php echo $header_title; ?>
-							
-						</h1>
-						<span>
-							<?php echo $header_description; ?>
-						</span>
-					</div>
-			
+		<div class="col_half col_last">
+			<ol class="breadcrumb">
+				<li><a href="<?php echo base_url(); ?>">Home</a></li>
+				<li class="active"><?php echo $header_title;?></li>
+			</ol>	
+		</div>
 
-					<div class="col_half col_last">
-						<ol class="breadcrumb">
-							<li><a href="<?php echo base_url(); ?>">Home</a></li>
-							<li class="active"><?php echo $header_title;?></li>
-						</ol>	
-					</div>
+	</div>
 
-				</div>
+	<!-- Sticky Social
+	============================================= -->
 
-				<!-- Sticky Social
-				============================================= -->
+	<?php $this->load->view('stickyView'); ?>
 
-				<?php $this->load->view('stickyView'); ?>
+	<!-- #sticky social end -->
 
-				<!-- #sticky social end -->
+</section><!-- #page-title end -->
 
-</section>
+
+
+
+
+
+
