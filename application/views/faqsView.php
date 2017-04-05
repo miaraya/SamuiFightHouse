@@ -40,7 +40,7 @@
 									<h3 id="faq-1" class="">
 										<i class="toggle-closed icon-plus"></i>
 										<i class="toggle-open icon-minus"></i>
-										Q: Can I learn both Muay Thai and MMA at Samui Fight House?
+										Q: Can I learn both Muay Thai and MMA at <b>SAMUI FIGHT HOUSE</b>?
 									</h3>
 								</div>
 
@@ -78,7 +78,7 @@
 									</h3>
 								</div>
 								<div class="togglec">
-									<p class="lead">A:  Yes, we can arrange both Muay Thai and MMA fights. There are 2 Stadiums on Samui as well as a number of smaller venues which host events.  Samui Fight House trains and prepares its students for fights on Koh Samui.   Where appropriate, we can also organise fights further afield, (i.e. Bangkok).
+									<p class="lead">A:  Yes, we can arrange both Muay Thai and MMA fights. There are 2 Stadiums on Samui as well as a number of smaller venues which host events.  <b>SAMUI FIGHT HOUSE</b> trains and prepares its students for fights on Koh Samui.   Where appropriate, we can also organise fights further afield, (i.e. Bangkok).
 									</p>
 
 								</div>
@@ -206,7 +206,7 @@
 									</h3>
 								</div>
 								<div class="togglec">
-									<p class="lead">A:  Yes, we have motorbikes for rent at Samui Fight House. 
+									<p class="lead">A:  Yes, we have motorbikes for rent at <b>SAMUI FIGHT HOUSE</b>. 
 
 									</p>
 								</div>

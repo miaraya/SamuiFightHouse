@@ -45,7 +45,7 @@
 								<span>The art of eigth limbs</span>
 							</div>
 
-							<p class="t300">Dating back to the 16th century, Muay Thai is an important part of Thailand’s culture and one of the most effective ways to get fit and develop self-confidence. This physical and mental discipline, which includes combat on foot, is known as “the art of the eight limbs” because it is characterised by the combined use of fists, elbows, knees, shins and feet. It is this intensive physical preparation that makes the full-contact fighter so efficient. </p>
+							<p class="t300">Dating back to the 16th century, Muay Thai is an important part of Thailand’s culture and one of the most effective ways to get fit and develop self-confidence. This physical and mental discipline, which includes combat on foot, is known as “the art of the eight limbs” because it is characterised by the combined use of fists, elbows, knees and feet. It is this intensive physical preparation that makes the full-contact fighter so efficient. </p>
 							<p class="t300">As one of the leading farang Muay Thai fighters of all time, Sean offers a unique opportunity to learn about the “Art of Eight Limbs” in a safe, relaxed and painless way.</p>
 						</div>
 					</div>
@@ -92,7 +92,7 @@
 								<span>There are no pleasures in a fight but some of my fights have been a pleasure to win</span>
 							</div>
 		
-							<p class="t300">Western Boxing is a combat sport, using gloved hands, in which two people engage in a contest of strength, speed, reflex, endurance and will.  Whether you’re a complete novice that has never put on a pair of gloves or an experienced boxer, Samui Fight House’s trainers will customise a programme to progress you.
+							<p class="t300">Western Boxing is a combat sport, using gloved hands, in which two people engage in a contest of strength, speed, reflex, endurance and will.  Whether you’re a complete novice that has never put on a pair of gloves or an experienced boxer, <b>SAMUI FIGHT HOUSE's</b> trainers will customise a programme to progress you.
 							</p>
 						</div>
 					</div>
@@ -153,7 +153,7 @@
 							</div>
 
 							<p class="t300">
-							Aligned with your physical training, customised meal plans and nutrition guidance is available. 
+							The Pyramid of success for the fighter is training, nutrition & rest. While putting 100% into training and resting between sessions to ensure the optimal recovery, nutrition is the part where many people don’t do very well, due to lack of knowledge and planning.  Our private chef here at the Fight House, offers you customized meals to help you recover from the training as well as reaching your personal goals. Whether you wish to lose weight, maintain weight or gain muscle mass, he is there to help you with nutritional advice, meal preparation and a meal plan to continue eating healthy when you return back home. 
 							</p>
 						
 						</div>
