@@ -13,6 +13,8 @@
 <link rel="stylesheet" href="<? echo base_url(); ?>css/magnific-popup.css" type="text/css" />
 <link rel="stylesheet" href="<? echo base_url(); ?>css/colors.css" type="text/css" />
 <link rel="stylesheet" href="<? echo base_url(); ?>css/custom.css" type="text/css" />
+<link rel="stylesheet" href="<? echo base_url(); ?>css/flags/css/flag-icon.css" type="text/css" />
+
 
 
 <link rel="stylesheet" href="<? echo base_url(); ?>css/responsive.css" type="text/css" />
