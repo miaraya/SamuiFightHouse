@@ -6,7 +6,7 @@
 		<li><a href="<?php echo site_url('training'); ?>">TRAINING</a></li>
 		<li><a href="<?php echo site_url('team'); ?>">TEAM</a></li>
 		<li><a href="<?php echo site_url('sponsorship'); ?>">SPONSORSHIP</a></li>
-		<li><a href="<?php echo site_url('media'); ?>">MEDIA</a></li>
+		<li><a href="<?php echo site_url('gallery'); ?>">GALLERY</a></li>
 		<li><a href="<?php echo site_url('faqs'); ?>">FAQS</a></li>
 		<li><a href="<?php echo site_url('contact'); ?>">CONTACT</a></li>
 										

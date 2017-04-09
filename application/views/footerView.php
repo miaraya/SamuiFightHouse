@@ -18,9 +18,11 @@
 					<a href="<?php echo site_url('training'); ?>">TRAINING</a>/
 					<a href="<?php echo site_url('team'); ?>">TEAM</a>/
 					<a href="<?php echo site_url('sponsorship'); ?>">SPONSORSHIP</a>/
-					<a href="<?php echo site_url('media'); ?>">MEDIA</a>
+					<a href="<?php echo site_url('media'); ?>">GALLERY</a>/
 					<a href="<?php echo site_url('faqs'); ?>">FAQS</a>/
 					<a href="<?php echo site_url('contact'); ?>">CONTACT</a>/
+					<a href="<?php echo site_url('blog'); ?>">BLOG</a>
+
 					<div class="space"></div>
 				</div>
 				<div class="clear"></div>

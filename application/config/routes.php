@@ -57,4 +57,4 @@ $route['contact'] = 'SamuiFightHouse/contact';
 $route['sponsorship'] = 'SamuiFightHouse/sponsorship';
 $route['team'] = 'SamuiFightHouse/team';
 $route['training'] = 'SamuiFightHouse/training';
-$route['media'] = 'SamuiFightHouse/media';
+$route['gallery'] = 'SamuiFightHouse/gallery';

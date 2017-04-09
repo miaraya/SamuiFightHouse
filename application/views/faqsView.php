@@ -78,7 +78,8 @@
 									</h3>
 								</div>
 								<div class="togglec">
-									<p class="lead">A:  Yes, we can arrange both Muay Thai and MMA fights. There are 2 Stadiums on Samui as well as a number of smaller venues which host events.  <b>SAMUI FIGHT HOUSE</b> trains and prepares its students for fights on Koh Samui.   Where appropriate, we can also organise fights further afield, (i.e. Bangkok).
+									<p class="lead">A:  Yes, we can arrange both Muay Thai and MMA fights. 
+										There are several Stadiums on Samui (<a href="http://www.chawengstadium.com">Chaweng Stadium</a>, <a href="">Phetbuncha Stadium</a>, and <a href="">Samui Stadium</a>) as well as a number of smaller venues which host events.  <b>SAMUI FIGHT HOUSE</b> trains and prepares its students for fights on Koh Samui.   Where appropriate, we can also organise fights further afield, (i.e. Bangkok).
 									</p>
 
 								</div>
@@ -136,7 +137,7 @@
 								<div class="togglec">
 									<p class="lead">A:  Absolutely not. 
 														Our instructors are fluent in English <span class="flag-icon flag-icon-gb"></span> and Thai <span class="flag-icon flag-icon-th"></span> , 
-														also, our staff speaks Sweedish <span class="flag-icon flag-icon-se"></span> and Spanish <span class="flag-icon flag-icon-es"></span>. 
+														also our staff speaks Swedish <span class="flag-icon flag-icon-se"></span> and Spanish <span class="flag-icon flag-icon-es"></span>. 
 														If you need assistance in other languages, please ask as we can generally accommodate your requirements.
 									</p>
 								</div>
@@ -189,7 +190,7 @@
 									</h3>
 								</div>
 								<div class="togglec">
-									<p class="lead">A:  Yes, we can provide this service for you. 
+									<p class="lead">A:  Yes, there is several places where you can get your laundry done. The price per kilo is between 35 thb and 40 thb . 
 									</p>
 								</div>
 								<div class="line line-sm"></div>
@@ -206,7 +207,7 @@
 									</h3>
 								</div>
 								<div class="togglec">
-									<p class="lead">A:  Yes, we have motorbikes for rent at <b>SAMUI FIGHT HOUSE</b>. 
+									<p class="lead">A:  Yes, we have motorbikes for rent at <b>SAMUI FIGHT HOUSE</b>. You can rent a motorbike for 200 thb per day or 3000 thb per month.
 
 									</p>
 								</div>

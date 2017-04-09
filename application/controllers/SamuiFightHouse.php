@@ -65,15 +65,15 @@
 			);
 			$this->load->view('trainingView',$data);
 		}
-		public function media()
+		public function gallery()
 		{
 			$this->load->helper('url');
 			$data = array(
 				'page_title' => 'Samui Fight House',
-				'header_title' => 'Media',
+				'header_title' => 'Gallery',
 				'header_description' => ''
 			);
-			$this->load->view('mediaView',$data);
+			$this->load->view('galleryView',$data);
 		}
 
 	}
