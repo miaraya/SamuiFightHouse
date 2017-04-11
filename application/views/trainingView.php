@@ -153,7 +153,7 @@
 							</div>
 
 							<p class="t300">
-							The Pyramid of success for the fighter is training, nutrition & rest. While putting 100% into training and resting between sessions to ensure the optimal recovery, nutrition is the part where many people don’t do very well, due to lack of knowledge and planning.  Our private chef here at the Fight House, offers you customized meals to help you recover from the training as well as reaching your personal goals. Whether you wish to lose weight, maintain weight or gain muscle mass, he is there to help you with nutritional advice, meal preparation and a meal plan to continue eating healthy when you return back home. 
+								The pyramid for success for a fighter includes training, rest and nutrition. Many fighters put 100% into their training and ensure proper rest between sessions to aid optimal recovery, but fall down when it comes to the nutritional component due to a lack of knowledge or planning. The Fight House's Private Chef can create a customised programme for you; whether your goal is to lose weight, maintain weight or gain muscle mass, our Chef is here to help you recover from your training. Nutritional advice, prepared meals and complete meal plans to ensure you continue eating healthily when you return home are all available to help you reach your personal goals.
 							</p>
 						
 						</div>
