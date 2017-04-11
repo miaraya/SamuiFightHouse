@@ -8,6 +8,7 @@
 		<li><a href="<?php echo site_url('sponsorship'); ?>">SPONSORSHIP</a></li>
 		<li><a href="<?php echo site_url('gallery'); ?>">GALLERY</a></li>
 		<li><a href="<?php echo site_url('faqs'); ?>">FAQS</a></li>
+		<li><a href="<?php echo site_url('testimonials'); ?>">TESTIMONIALS</a></li>
 		<li><a href="<?php echo site_url('contact'); ?>">CONTACT</a></li>
 										
 	</ul>

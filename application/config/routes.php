@@ -58,3 +58,5 @@ $route['sponsorship'] = 'SamuiFightHouse/sponsorship';
 $route['team'] = 'SamuiFightHouse/team';
 $route['training'] = 'SamuiFightHouse/training';
 $route['gallery'] = 'SamuiFightHouse/gallery';
+$route['testimonials'] = 'SamuiFightHouse/testimonials';
+

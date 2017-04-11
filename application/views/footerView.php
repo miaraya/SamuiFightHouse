@@ -21,6 +21,7 @@
 					<a href="<?php echo site_url('media'); ?>">GALLERY</a>/
 					<a href="<?php echo site_url('faqs'); ?>">FAQS</a>/
 					<a href="<?php echo site_url('contact'); ?>">CONTACT</a>/
+					<a href="<?php echo site_url('testimonials'); ?>">TESTIMONIALS</a>/
 					<a href="<?php echo site_url('blog'); ?>">BLOG</a>
 
 					<div class="space"></div>

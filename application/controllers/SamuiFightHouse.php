@@ -75,6 +75,16 @@
 			);
 			$this->load->view('galleryView',$data);
 		}
+		public function testimonials()
+		{
+			$this->load->helper('url');
+			$data = array(
+				'page_title' => 'Samui Fight House',
+				'header_title' => 'Testimonials',
+				'header_description' => 'Samui Fight House has successfully trained people from all over the world.  People from different cultures and vastly different backgrounds have all enjoyed their time with us.'
+			);
+			$this->load->view('testimonialsView',$data);
+		}
 
 	}
 ?>
