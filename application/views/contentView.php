@@ -78,14 +78,14 @@
 						
 						<h2 class="uppercase" style="padding-bottom:30px;">
 							<mark style="color:yellow;">
-								Tired of the same old routines?
+								Tired of the same old routine?
 							</mark>
 						</h2>
 
 						<p class="t300" style="line-height: 1.8; background-color: rgba(0,0,0,0.45); padding:20px;">
 							Whether you’re living in Samui and looking to shake up your fitness programme or visiting for a 
 							few weeks holiday, why not let Samui Fight House take your fitness to an entirely different level?
-							Sean and his team at Samui Fight House provide personal instruction in Muay Thai,
+							Sean and his team provide personal instruction in Muay Thai,
 							Brazilian Jiu-Jitsu (BJJ), Mixed Martial Arts (MMA) and Boxing. Whether your goal
 							is weight loss, increased cardiovascular activity or just more confidence, a workout
 							with Samui Fight House will leave you empowered and with a smile on your (sweaty!) face.
@@ -222,26 +222,26 @@
 							<div class="flexslider">
 								<div class="slider-wrap center">
 									<div class="slide">
-										<div class="testi-image">
-											<a href="#"><img src="images/miguel.jpg" alt="Customer Testimonails"></a>
-										</div>
+										<!-- <div class="testi-image">
+											<!-- <a href="#"><img src="images/miguel.jpg" alt="Customer Testimonails"></a>
+										</div> -->
 										<p class="t300">
 											Sean and the team not just teach Muay Thai, after the sessions he introdoces us to the culture of Thailand, he has been living here for over 10 years
 										</p>
 										<div class="testi-meta">
-												Miguel Araya
+												Miguel, Software Engineer
 										</div>
 										<h1><span class="flag-icon flag-icon-cl"></span></h1>
 									</div>
 									<div class="slide">
-										<div class="testi-image">
-											<a href="#"><img src="images/sam.png" alt="Customer Testimonails"></a>
-										</div>
+										<!-- <div class="testi-image">
+											<a href="#"><img src="images/sam.png" alt="Customer Testimonails"></a> 
+										</div> -->
 										<p class="t300">
 											As a complete newbie to Muay Thai, I feel incredibly lucky to have trained with Sean. His passion for the sport combined with his attention to detail means I have learned correct movements from the beginning. Sean tailors every session to the client so, if you're fit, expect some gruelling sessions! But his humour and enthusiasm will inspire you to dig deep and before you know it, you'll be hooked! Samui Fight House also offers excellent jiu jitsu training and if you get the chance to roll with Pablo, grab the opportunity. His patience and enthusiasm are limitless (they needed to be!). For females, besides being unbelievably fun, the hardcore workouts at SFH could prove invaluable from a self defense perspective. If you're in Samui for a holiday and fancy something different, you should definitely book some sessions with Sean and his team.
 										</p>
 										<div class="testi-meta">
-												Samantha Keathing
+												Sam, IT Consultant
 										</div>
 										<h1><span class="flag-icon flag-icon-gb"></span></h1>
 									</div>
@@ -257,11 +257,11 @@
 
 							<h2>Testimonials</h2>
 							<p class="lead">
-								<span class="yellow">SAMUI FIGHT HOUSE</span> has been trained people from all around the world, from different cultures and backgrounds. Here you can see how was their experience training here.
+								<span class="yellow">SAMUI FIGHT HOUSE</span> has successfully trained people from all over the world.  People from different cultures and vastly different backgrounds have all enjoyed their time with us.
 							</p>
 						</div>
 						<div class="center dark">
-							<a href="#" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>More pics of our house</span></a>
+							<a href="<? echo base_url(); ?>testimonials" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Read about their experiences</span></a>
 						</div>
 					</div>
 
