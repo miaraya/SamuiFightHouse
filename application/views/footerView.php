@@ -1,4 +1,4 @@
-<footer id="footer" class="dark">
+<footer id="footer" class="dark" style="background: url('images/footer.png') repeat;">
 
 	<!-- Copyrights
 	============================================= -->
