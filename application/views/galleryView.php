@@ -70,44 +70,133 @@
 
 					<article class="portfolio-item pf-uielements pf-media">
 						<div class="portfolio-image">
-							<a href="portfolio-single.html">
-								<img src="images/gallery/1.jpg" alt="SFH">
-							</a>
+							<img src="images/gallery/thumbs/1.jpg" alt="SFH">
 							<div class="portfolio-overlay">
 								<div class="portfolio-desc">
-									<h3>Console Activity</h3>
-									<span>UI Elements</a></span>
+									<h3>Core workout</h3>
 								</div>
-								<a href="images/gallery/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+								<a href="images/gallery/1.jpg" class="left-icon" data-lightbox="image">
+									<i class="icon-line-plus"></i>
+								</a>
 							</div>
 						</div>
 					</article>	
 
 
-					<article class="portfolio-item pf-media pf-icons wide">
+					<article class="portfolio-item pf-media pf-icons ">
 						<div class="portfolio-image">
 							<a href="portfolio-single.html">
-								<img src="images/portfolio/4/mixed/1.jpg" alt="Open Imagination">
+								<img src="images/gallery/thumbs/2.jpg" alt="Team">
 							</a>
 							<div class="portfolio-overlay">
 								<div class="portfolio-desc">
-									<h3><a href="portfolio-single.html">Open Imagination</a></h3>
-									<span><a href="#">Media</a>, <a href="#">Icons</a></span>
+									<h3>Headquarters</h3>
 								</div>
-								<a href="images/portfolio/full/1.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
-								<a href="portfolio-single.html" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+								<a href="images/gallery/2.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+							</div>
+						</div>
+					</article>
+					<article class="portfolio-item pf-media pf-icons ">
+						<div class="portfolio-image">
+							<a href="portfolio-single.html">
+								<img src="images/gallery/thumbs/3.jpg" alt="Team">
+							</a>
+							<div class="portfolio-overlay">
+								<div class="portfolio-desc">
+									<h3>Headquarters</h3>
+								</div>
+								<a href="images/gallery/3.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+							</div>
+						</div>
+					</article>
+					<article class="portfolio-item pf-media pf-icons ">
+						<div class="portfolio-image">
+							<a href="portfolio-single.html">
+								<img src="images/gallery/thumbs/4.jpg" alt="Team">
+							</a>
+							<div class="portfolio-overlay">
+								<div class="portfolio-desc">
+									<h3>Headquarters</h3>
+								</div>
+								<a href="images/gallery/4.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+							</div>
+						</div>
+					</article>
+					<article class="portfolio-item pf-media pf-icons ">
+						<div class="portfolio-image">
+								<img src="images/gallery/thumbs/5.jpg" alt="Team">
+							<div class="portfolio-overlay">
+								<div class="portfolio-desc">
+									<h3>Headquarters</h3>
+								</div>
+								<a href="images/gallery/5.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+							</div>
+						</div>
+					</article>
+					<article class="portfolio-item pf-media pf-icons ">
+						<div class="portfolio-image">
+							<a href="portfolio-single.html">
+								<img src="images/gallery/thumbs/6.jpg" alt="Team">
+							</a>
+							<div class="portfolio-overlay">
+								<div class="portfolio-desc">
+									<h3>Headquarters</h3>
+								</div>
+								<a href="images/gallery/6.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
 							</div>
 						</div>
 					</article>
 
+					<article class="portfolio-item pf-illustrations pf-icons wide">
+						<div class="portfolio-image">
+							<div class="fslider" data-arrows="false" data-speed="650" data-pause="3500" data-animation="fade">
+								<div class="flexslider">
+									<div class="slider-wrap">
+										<div class="slide"><img src="images/gallery/thumbs/7.jpg" alt="Bridge Side"></a></div>
+										<!-- <div class="slide"><a href="portfolio-single-gallery.html"><img src="images/portfolio/4/mixed/9-1.jpg" alt="Bridge Side"></a></div>
+										<div class="slide"><a href="portfolio-single-gallery.html"><img src="images/portfolio/4/mixed/9-2.jpg" alt="Bridge Side"></a></div>
+										-->
+									</div>
+								</div>
+							</div>
+							<div class="portfolio-overlay" data-lightbox="gallery">
+								<div class="portfolio-desc">
+									<h3><a href="portfolio-single.html">Bridge Side</a></h3>
+								</div>
+								<a href="images/gallery/7.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-plus"></i></a>
+								<!-- <a href="images/portfolio/full/9-1.jpg" class="hidden" data-lightbox="gallery-item"></a>
+								<a href="images/portfolio/full/9-2.jpg" class="hidden" data-lightbox="gallery-item"></a>
+								<a href="portfolio-single-gallery.html" class="right-icon"><i class="icon-line-ellipsis"></i></a> -->
+							</div>
+						</div>
+					</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
+
+
+
+
 					<article class="portfolio-item pf-illustrations">
 						<div class="portfolio-image">
-							<a href="portfolio-single.html">
-								<img src="images/portfolio/4/mixed/2.jpg" alt="Locked Steel Gate">
-							</a>
+								<img src="images/thumbs/23jpg" alt="Samui Fight House">
 							<div class="portfolio-overlay">
 								<div class="portfolio-desc">
-									<h3><a href="portfolio-single.html">Locked Steel Gate</a></h3>
 									<span><a href="#">Illustrations</a></span>
 								</div>
 								<a href="images/portfolio/full/2.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
@@ -300,6 +389,7 @@
 							</div>
 						</div>
 					</article>
+				-->
 
 				</div><!-- #portfolio end -->
 
