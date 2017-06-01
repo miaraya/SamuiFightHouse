@@ -11,8 +11,8 @@
 			
 			
 			<div id="logo">
-				<a href="<?php echo base_url(); ?>" class="standard-logo" data-dark-logo="<?php echo base_url(); ?>images/logo-yellow.png"><img src="<?php echo base_url(); ?>images/logo-yellow.svg" alt="SAMUI FIGHT HOUSE"></a>
-				<a href="<?php echo base_url(); ?>" class="retina-logo" data-dark-logo="<?php echo base_url(); ?>images/logo-yellow.png"><img src="<?php echo base_url(); ?>images/logo-yellow.svg" alt="SAMUI FIGHT HOUSE"></a>
+				<a href="<?php echo base_url(); ?>" class="standard-logo" data-dark-logo="<?php echo base_url(); ?>images/logo-yellow.png"><img src="<?php echo base_url(); ?>images/logo-yellow.png" alt="SAMUI FIGHT HOUSE"></a>
+				<a href="<?php echo base_url(); ?>" class="retina-logo" data-dark-logo="<?php echo base_url(); ?>images/logo-yellow.png"><img src="<?php echo base_url(); ?>images/logo-yellow.png" alt="SAMUI FIGHT HOUSE"></a>
 			</div>
 			
 			<!-- #logo end -->

@@ -86,5 +86,16 @@
 			$this->load->view('testimonialsView',$data);
 		}
 
+		public function liabilityWaiver()
+		{
+			$this->load->helper('url');
+			$data = array(
+				'page_title' => 'Samui Fight House',
+				'header_title' => 'Liability Waiver for Muay Thai and related Activities',
+				'header_description' => ''
+			);
+			$this->load->view('liabilityWaiverView',$data);
+		}
+
 	}
 ?>

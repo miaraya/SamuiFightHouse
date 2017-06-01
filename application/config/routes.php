@@ -49,14 +49,17 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | Examples:	my-controller/index	-> my_controller/index
 |		my-controller/my-method	-> my_controller/my_method
 */
-$route['default_controller'] = 'SamuiFightHouse';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
-$route['faqs'] = 'SamuiFightHouse/faqs';
-$route['contact'] = 'SamuiFightHouse/contact';
-$route['sponsorship'] = 'SamuiFightHouse/sponsorship';
-$route['team'] = 'SamuiFightHouse/team';
-$route['training'] = 'SamuiFightHouse/training';
-$route['gallery'] = 'SamuiFightHouse/gallery';
-$route['testimonials'] = 'SamuiFightHouse/testimonials';
+
+
+$route['default_controller']= 'SamuiFightHouse';
+$route['faqs'] 				= 'SamuiFightHouse/faqs';
+$route['contact'] 			= 'SamuiFightHouse/contact';
+$route['sponsorship'] 		= 'SamuiFightHouse/sponsorship';
+$route['team'] 				= 'SamuiFightHouse/team';
+$route['training'] 			= 'SamuiFightHouse/training';
+$route['gallery'] 			= 'SamuiFightHouse/gallery';
+$route['testimonials'] 		= 'SamuiFightHouse/testimonials';
+$route['liability-waiver']	= 'SamuiFightHouse/liabilityWaiver';
 
