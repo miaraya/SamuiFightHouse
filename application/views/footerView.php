@@ -40,6 +40,11 @@
 					</a>
 
 				</div>
+				<div class="clear"></div>
+				<div class="fright">
+					<span style="color:yellow;"><a href="<?php echo site_url('liability-waiver'); ?>">LIABILITY WAIVER</a></span>
+				</div>
+
 			</div>
 
 		</div>
