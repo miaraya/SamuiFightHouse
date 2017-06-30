@@ -154,6 +154,10 @@
 
 							<p class="t300">
 								The pyramid for success for a fighter includes training, rest and nutrition. Many fighters put 100% into their training and ensure proper rest between sessions to aid optimal recovery, but fall down when it comes to the nutritional component due to a lack of knowledge or planning. The Fight House's Private Chef can create a customised programme for you; whether your goal is to lose weight, maintain weight or gain muscle mass, our Chef is here to help you recover from your training. Nutritional advice, prepared meals and complete meal plans to ensure you continue eating healthily when you return home are all available to help you reach your personal goals.
+
+								We also offer green juices made from fresh local ingredients as well as post workout recovery smoothies.
+
+								Please contact our in-house chef, Chris ¨The Fighting Chef¨ for information about the meal-plans, pricing and if you have any other questions regarding the meals.	
 							</p>
 						
 						</div>
