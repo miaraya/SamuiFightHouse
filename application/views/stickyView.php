@@ -7,11 +7,11 @@
 		<i class="icon-instagram"></i>
 		<i class="icon-instagram"></i>
 	</a>
-	<a href="contact.html" class="social-icon si-email3" data-animate="bounceInLeft">
+	<a href="contact" class="social-icon si-email3" data-animate="bounceInLeft">
 		<i class="icon-email3"></i>
 		<i class="icon-email3"></i>
 	</a>
-	<a href="contact.html" class="social-icon si-call" data-animate="bounceInLeft">
+	<a href="contact" class="social-icon si-call" data-animate="bounceInLeft">
 		<i class="icon-call"></i>
 		<i class="icon-call"></i>
 	</a>
