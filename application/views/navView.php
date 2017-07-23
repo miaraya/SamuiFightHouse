@@ -16,7 +16,7 @@
 		<li><a href="<?php echo site_url('faqs'); ?>">FAQS</a></li>
 		<li><a href="<?php echo site_url('testimonials'); ?>">TESTIMONIALS</a></li>
 		<li><a href="<?php echo site_url('contact'); ?>">CONTACT</a></li>
-		<li><a href="<?php echo site_url('blog'); ?>">BLOG</a></li>
+		<li><a href="http://blog.samuifighthouse.com">">BLOG</a></li>
 
 	</ul>
 
