@@ -292,7 +292,7 @@
 								<span class="price-unit">&#3647;</span>500
 							</div>
 							<div class="pricing-action">
-								<a href="booking.html" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
+								<a href="<?php echo site_url('contact'); ?>" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
 							</div>
 						</div>
 
@@ -304,7 +304,7 @@
 								<span class="price-unit">&#3647;</span>1000
 							</div>
 							<div class="pricing-action">
-								<a href="booking.html" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
+								<a href="<?php echo site_url('contact'); ?>" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
 							</div>
 						</div>
 
@@ -316,7 +316,7 @@
 								<span class="price-unit">&#3647;</span>4000
 							</div>
 							<div class="pricing-action">
-								<a href="booking.html" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
+								<a href="<?php echo site_url('contact'); ?>" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
 							</div>
 						</div>
 
@@ -328,7 +328,7 @@
 								<span class="price-unit">&#3647;</span>12000
 							</div>
 							<div class="pricing-action">
-								<a href="booking.html" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
+								<a href="<?php echo site_url('contact'); ?>" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
 							</div>
 						</div>
 
@@ -340,7 +340,7 @@
 								<span class="price-unit">&#3647;</span>400
 							</div>
 							<div class="pricing-action">
-								<a href="booking.html" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
+								<a href="<?php echo site_url('contact'); ?>" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
 							</div>
 						</div>
 
