@@ -63,5 +63,9 @@ $route['gallery'] 			= 'SamuiFightHouse/gallery';
 $route['testimonials'] 		= 'SamuiFightHouse/testimonials';
 $route['liability-waiver']	= 'SamuiFightHouse/liabilityWaiver';
 $route['blog']				= 'http://blog.samuifighthouse.com';
+$route['pricing']			= 'SamuiFightHouse/pricing';
+$route['time-table']		= 'SamuiFightHouse/timeTable';
+
+
 
 

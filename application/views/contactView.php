@@ -14,7 +14,7 @@
 			  var js, fjs = d.getElementsByTagName(s)[0];
 			  if (d.getElementById(id)) return;
 			  js = d.createElement(s); js.id = id;
-			  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.8";
+			  js.src = "//connect.facebook.net/us_EN/sdk.js#xfbml=1&version=v2.8";
 			  fjs.parentNode.insertBefore(js, fjs);
 			}(document, 'script', 'facebook-jssdk'));
 			</script>
@@ -109,11 +109,11 @@
 								</div>
 								<h3>Our Headquarters
 									<span class="subtitle">
-										113/3 Moo 1
-										Maret 
+										407/16 Moo 1 
 										Hua Thanon
 										Koh Samui
-										Surat Thani, Thailand
+										Surat Thani
+										Thailand
 										84310
 									</span>
 								</h3>
@@ -185,12 +185,12 @@
 
 			$('#google-map').gMap({
 
-				address: '113/3 Moo 1, Maret HuaThanon, Koh Samui, Surat Thani 84310',
+				address: '407/16 Moo 1, Hua Thanon, Koh Samui, Surat Thani, 84310',
 				maptype: 'ROADMAP',
 				zoom: 14,
 				markers: [
 					{
-						address: "113/3 Moo 1, Maret HuaThanon, Koh Samui, Surat Thani 84310",
+						address: "407/16 Moo 1, Hua Thanon, Koh Samui, Surat Thani, 84310",
 						html: '<div style="width: 300px;"><h4 style="margin-bottom: 8px;">Sah-wah-dee khrap!, welcome to <span style="color:yellow; background-color:black;">SAMUI FIGHT HOUSE</span></h4><p class="nobottommargin"> Our mission is to keep no more than 10 visiting students outside of our international fight team, to ensure high quality training and individual attention with a family and team atmosphere.</p></div>',
 						icon: {
 							image: "images/icons/map-icon.png",

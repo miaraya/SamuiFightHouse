@@ -7,6 +7,10 @@
 			<ul>
 				<li><a href="<?php echo site_url('training'); ?>">Disciplines</a></li>
 				<li><a href="<?php echo site_url('team'); ?>">TEAM</a></li>
+				<li><a href="<?php echo site_url('pricing'); ?>">PRICING</a></li>
+				<li><a href="<?php echo site_url('time-table'); ?>">Time Table</a></li>
+
+
 
 			</ul>
 		</li>
