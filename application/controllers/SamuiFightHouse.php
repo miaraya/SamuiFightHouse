@@ -114,7 +114,7 @@
 			$this->load->helper('url');
 			$data = array(
 				'page_title' => 'Samui Fight House - Time table',
-				'header_title' => 'Time tables',
+				'header_title' => 'Time table',
 				'header_description' => ''
 			);
 			$this->load->view('timeTableView',$data);

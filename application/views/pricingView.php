@@ -109,7 +109,7 @@
 				<div class="container clearfix">
 
 					<div class="heading-block">
-						<h3>Regular price list</h2>
+						<h2>Regular price list</h2>
 					</div>
 
 					<div class="pricing pricing-5 bottommargin clearfix">
