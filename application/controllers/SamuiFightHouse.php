@@ -2,6 +2,7 @@
 	class SamuiFightHouse extends CI_Controller
 	{
 
+		public $SFH = '<span class="yellow" style="display:inline;">SAMUI FIGHT HOUSE</span>';
 
 		public function index()
 		{
@@ -103,7 +104,7 @@
 			$data = array(
 				'page_title' => 'Samui Fight House - Pricing',
 				'header_title' => 'Pricing',
-				'header_description' => ''
+				'header_description' => $this->SFH.' has moved!, to celebrate our new timetable and our new home, we are offering some crazy promotions throughout the month of August!'
 			);
 			$this->load->view('pricingView',$data);
 		}
@@ -113,7 +114,7 @@
 			$this->load->helper('url');
 			$data = array(
 				'page_title' => 'Samui Fight House - Time table',
-				'header_title' => 'Time table',
+				'header_title' => 'Time tables',
 				'header_description' => ''
 			);
 			$this->load->view('timeTableView',$data);
