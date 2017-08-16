@@ -15,7 +15,7 @@
 			</ul>
 		</li>
 
-		<li><a href="<?php echo site_url('pricing'); ?>">PRICING</a></li> -->
+		<li><a href="<?php echo site_url('pricing'); ?>">PRICING</a></li>
 		<li><a href="<?php echo site_url('gallery'); ?>">GALLERY</a></li>
 		<li><a href="<?php echo site_url('faqs'); ?>">FAQS</a></li>
 		<li><a href="<?php echo site_url('testimonials'); ?>">TESTIMONIALS</a></li>
