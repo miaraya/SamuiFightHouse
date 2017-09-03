@@ -1,6 +1,10 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="author" content="Miguel Araya" />
 <meta name="google-site-verification" content="3d5SGivLUJ8xlaqeHfFXXr9DAQO_FV983Zi48mb9d_I" />
+<meta name="description" content="Muay Thai training camp and personal training in Koh Samui, Thailand">
+<meta name="keywords" content="Muay Thai, Koh Samui, training camp, personal training">
+
+
 
 <!-- Stylesheets
 ============================================= -->
