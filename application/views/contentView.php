@@ -4,8 +4,10 @@
 
 				<div class="container clearfix">
 					
-					<div class="slider-caption slider-caption-left" data-animate="fadeIn" data-delay="200">
-						<img src="<?php echo base_url(); ?>images/logo-big.png" class="img-fluid">
+					<div class="slider-caption slider-caption-center" data-animate="fadeIn" data-delay="200">
+						<h1>
+							<img src="<?php echo base_url(); ?>images/logo-big.png" class="img-fluid">
+						</h1>
 					</div>
 				
 				</div>
@@ -36,6 +38,12 @@
 				</div>
 
 			</div>
+			<a href="#" data-scrollto="#section-intro" 
+						data-offset="0" 
+						class="dark one-page-arrow">
+						<i class="icon-angle-down infinite animated fadeInDown"></i>
+			</a>
+
 </section>
 
 		<!-- Page Sub Menu
@@ -301,7 +309,7 @@
 								<h3>Daily group training</h3>
 							</div>
 							<div class="pricing-price">
-								<span class="price-unit">&#3647;</span>1000
+								<span class="price-unit">&#3647;</span>800
 							</div>
 							<div class="pricing-action">
 								<a href="<?php echo site_url('contact'); ?>" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
@@ -331,7 +339,7 @@
 								<a href="<?php echo site_url('contact'); ?>" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
 							</div>
 						</div>
-
+<!--
 						<div class="pricing-box pricing-minimal">
 							<div class="pricing-title">
 								<h3>Yoga <br>group session</h3>
@@ -343,7 +351,7 @@
 								<a href="<?php echo site_url('contact'); ?>" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
 							</div>
 						</div>
-
+-->
 					</div>
 				</div>
 				
