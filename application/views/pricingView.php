@@ -93,7 +93,7 @@
 					<div class="style-msg style-msg-light" style="background-color: #333;" data-animate="bounceInUp">
 						<div class="sb-msg">
 							<i class="icon-question-sign"></i>
-							*Promotions must be paid in full during August 2017.
+							*Promotions must be paid in full during September 2017.
 						</div>
 					</div>
 
@@ -112,68 +112,10 @@
 						<h2>Regular price list</h2>
 					</div>
 
-					<div class="pricing pricing-5 bottommargin clearfix">
-
-						<div class="pricing-box pricing-minimal">
-							<div class="pricing-title">
-								<h3>Group Training 1 session</h3>
-							</div>
-							<div class="pricing-price">
-								<span class="price-unit">&#3647;</span>500
-							</div>
-							<div class="pricing-action">
-								<a href="<?php echo site_url('contact'); ?>" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
-							</div>
-						</div>
-
-						<div class="pricing-box pricing-minimal">
-							<div class="pricing-title">
-								<h3>Daily group training</h3>
-							</div>
-							<div class="pricing-price">
-								<span class="price-unit">&#3647;</span>1000
-							</div>
-							<div class="pricing-action">
-								<a href="<?php echo site_url('contact'); ?>" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
-							</div>
-						</div>
-
-						<div class="pricing-box pricing-minimal">
-							<div class="pricing-title">
-								<h3>Weekly group training</h3>
-							</div>
-							<div class="pricing-price">
-								<span class="price-unit">&#3647;</span>4000
-							</div>
-							<div class="pricing-action">
-								<a href="<?php echo site_url('contact'); ?>" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
-							</div>
-						</div>
-
-						<div class="pricing-box pricing-minimal">
-							<div class="pricing-title">
-								<h3>Monthly group training</h3>
-							</div>
-							<div class="pricing-price">
-								<span class="price-unit">&#3647;</span>12000
-							</div>
-							<div class="pricing-action">
-								<a href="<?php echo site_url('contact'); ?>" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
-							</div>
-						</div>
-
-						<div class="pricing-box pricing-minimal">
-							<div class="pricing-title">
-								<h3>Yoga <br>group session</h3>
-							</div>
-							<div class="pricing-price">
-								<span class="price-unit">&#3647;</span>400
-							</div>
-							<div class="pricing-action">
-								<a href="<?php echo site_url('contact'); ?>" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
-							</div>
-						</div>
-
+					<div class="slider-caption slider-caption-center" data-animate="fadeIn" data-delay="200">
+						<h1>
+							<img src="<?php echo base_url(); ?>images/pricelist.png" class="img-fluid" alt="Samui Fight House Muay Thai">
+						</h1>
 					</div>
 				</div>
 				

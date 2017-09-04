@@ -6,7 +6,7 @@
 					
 					<div class="slider-caption slider-caption-center" data-animate="fadeIn" data-delay="200">
 						<h1>
-							<img src="<?php echo base_url(); ?>images/logo-big.png" class="img-fluid">
+							<img src="<?php echo base_url(); ?>images/logo-big.png" class="img-fluid" alt="Samui Fight House Muay Thai">
 						</h1>
 					</div>
 				
@@ -280,7 +280,7 @@
 
 
 		<div class="clear"></div>
-
+<!--
 		<section id="section-prices" class="page-section"> 
 			<div class="section parallax dark nomargin" style="background-color: #222; padding: 100px 0;" data-stellar-background-ratio="0.4">
 				<div class="container clearfix">
@@ -339,7 +339,7 @@
 								<a href="<?php echo site_url('contact'); ?>" class="button button-rounded button-reveal button-large button-border tright button-border-thin"><i class="icon-arrow-right2"></i><span>Book now!</span></a>
 							</div>
 						</div>
-<!--
+
 						<div class="pricing-box pricing-minimal">
 							<div class="pricing-title">
 								<h3>Yoga <br>group session</h3>
