@@ -72,7 +72,7 @@
 			$data = array(
 				'page_title' => 'Samui Fight House - Gallery',
 				'header_title' => 'Gallery',
-				'header_description' => ''
+				'header_description' => $this->SFH.' in action.'
 			);
 			$this->load->view('galleryView',$data);
 		}
@@ -82,7 +82,7 @@
 			$data = array(
 				'page_title' => 'Samui Fight House - Tesimonials',
 				'header_title' => 'Testimonials',
-				'header_description' => 'Samui Fight House has successfully trained people from all over the world.  People from different cultures and vastly different backgrounds have all enjoyed their time with us.'
+				'header_description' => $this->SFH.' has successfully trained people from all over the world.  People from different cultures and vastly different backgrounds have all enjoyed their time with us.'
 			);
 			$this->load->view('testimonialsView',$data);
 		}

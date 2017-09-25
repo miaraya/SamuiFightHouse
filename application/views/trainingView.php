@@ -141,14 +141,17 @@
 					</div>
 
 				</div>
-				
+				<a href="#example">Example headline</a>
+
 				<div class="line"></div>
 
 				<div class="row clearfix common-height">
 					<div class="col-md-6 text-justify col-padding" style="background-color: #F5F5F5;" data-animate="fadeInLeft">
 						<div>
+							<h5><a id="example"></a>Example headline</h5>
+
 							<div class="heading-block center">
-								<h3>Nutrition</h3>
+								<h3>Nutrition<a id="nutrition"></a></h3>
 								<span>Let food be thy medicine and medicine be thy food</span>
 							</div>
 
@@ -157,7 +160,7 @@
 
 								We also offer green juices made from fresh local ingredients as well as post workout recovery smoothies.
 
-								Please contact our in-house chef, Chris ¨The Fighting Chef¨ for information about the meal-plans, pricing and if you have any other questions regarding the meals.	
+								Please contact our in-house chef, Chris ¨The Fighting Chef¨ here for information about the meal-plans, pricing and if you have any other questions regarding the meals.	
 							</p>
 						
 						</div>
