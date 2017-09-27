@@ -2,7 +2,7 @@
 <meta name="author" content="Miguel Araya" />
 <meta name="google-site-verification" content="3d5SGivLUJ8xlaqeHfFXXr9DAQO_FV983Zi48mb9d_I" />
 <meta name="description" content="Muay Thai in Koh Samui. Training camp and personal training in Koh Samui, Thailand">
-<meta name="keywords" content="Muay Thai in Koh Samui, Thailand, training camp, personal training, fitness training">
+<meta name="keywords" content="Muay Thai in Koh Samui">
 
 
 
