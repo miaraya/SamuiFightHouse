@@ -8,7 +8,7 @@
 		{
 			$this->load->helper('url');
 			$data = array(
-				'title' => 'Samui Fight House - Muay Thai'
+				'title' => 'Muay Thai in Koh Samui - Samui Fight House'
 			);
 			$this->load->view('mainView',$data);
 		}
