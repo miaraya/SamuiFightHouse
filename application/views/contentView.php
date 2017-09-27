@@ -6,7 +6,9 @@
 					
 					<div class="slider-caption slider-caption-center" data-animate="fadeIn" data-delay="200">
 						<h1>
-							<img src="<?php echo base_url(); ?>images/logo-big.png" class="img-fluid" alt="Samui Fight House Muay Thai">
+							<img src="<?php echo base_url(); ?>images/logo-big.png" class="img-fluid" alt="Muay Thai in Koh Samui">
+							<h1>
+								The place to train Muay Thai in Koh Samui
 						</h1>
 					</div>
 				
