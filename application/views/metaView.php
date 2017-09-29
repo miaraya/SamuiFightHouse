@@ -7,6 +7,13 @@
 <meta property="og:url" content="http://www.samuifighthouse.com" />
 <meta property="og:title" content="Muay Thai in Koh Samui - Samui Fight House" />
 
+<link rel="canonical" href="http://www.samuifighthouse.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Muay Thai in Koh Samui. Training camp and personal training in Koh Samui, Thailand" />
+<meta property="og:url" content="http://www.samuifighthouse.com/" />
+<meta property="og:site_name" content="SAMUI FIGHT HOUSE" />
+
 
 
 
