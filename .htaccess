@@ -2,7 +2,11 @@ RewriteEngine on
 RewriteCond $1 !^(index\.php|resources|robots\.txt)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ index.php/$1 [L,QSA] 
+RewriteRule ^(.*)$ index.php/$1 [L,QSA]
+
+RewriteBase /
+rewritecond %{http_host} ^samuifighthouse.com [nc]
+rewriterule ^(.*)$ http://www.samuifighthouse.com/$1 [r=301,nc]
 
 # Allow access from all domains for webfonts.
 # Alternatively you could only whitelist your
@@ -12,6 +16,3 @@ RewriteRule ^(.*)$ index.php/$1 [L,QSA]
     Header set Access-Control-Allow-Origin "*"
   </FilesMatch>
 </IfModule>
-
-#RewriteCond %{HTTP_HOST} *!^www*.samuifighthouse\.com [NC]<br>
-#RewriteRule (.*) http://www.samuifighthouse.com/$1 [L,R=301]
