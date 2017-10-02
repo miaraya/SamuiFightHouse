@@ -13,5 +13,5 @@ RewriteRule ^(.*)$ index.php/$1 [L,QSA]
   </FilesMatch>
 </IfModule>
 
-RewriteCond %{HTTP_HOST} *!^www*.samuifighthouse\.com [NC]<br>
-RewriteRule (.*) http://www.samuifighthouse.com/$1 [L,R=301]
+#RewriteCond %{HTTP_HOST} *!^www*.samuifighthouse\.com [NC]<br>
+#RewriteRule (.*) http://www.samuifighthouse.com/$1 [L,R=301]
