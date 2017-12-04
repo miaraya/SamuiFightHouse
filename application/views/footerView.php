@@ -9,7 +9,7 @@
 			<div class="col_two_fifth">
 				<img src="images/logo-white.png" alt="Footer Logo" class="footer-logo">
 
-				Copyrights &copy; 2017 All Rights Reserved by Samui Fight House.
+				Copyrights &copy; 2017 All Rights Reserved by Bangkok Fight House.
 			</div>
 
 			<div class="col_three_fifth col_last tright">
@@ -40,9 +40,9 @@
 
 				</div>
 				<div class="clear"></div>
-				<div class="fright">
+				<!-- <div class="fright">
 					<span style="color:yellow;"><a href="<?php echo site_url('liability-waiver'); ?>">LIABILITY WAIVER</a></span>
-				</div>
+				</div> -->
 
 			</div>
 

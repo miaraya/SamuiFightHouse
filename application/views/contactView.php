@@ -102,7 +102,7 @@
 					============================================= -->
 					<div class="row clear-bottommargin">
 
-						<div class="col-md-3 col-sm-6 bottommargin clearfix">
+						<!--<div class="col-md-3 col-sm-6 bottommargin clearfix">
 							<div class="feature-box fbox-center fbox-border fbox-dark">
 								<div class="fbox-icon">
 									<i class="icon-map-marker2"></i>
@@ -118,7 +118,7 @@
 									</span>
 								</h3>
 							</div>
-						</div>
+						</div> -->
 
 						<div class="col-md-3 col-sm-6 bottommargin clearfix">
 							<div class="feature-box fbox-center fbox-border fbox-dark">

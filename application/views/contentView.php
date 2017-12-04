@@ -6,9 +6,9 @@
 					
 					<div class="slider-caption slider-caption-center" data-animate="fadeIn" data-delay="200">
 						<h1>
-							<img src="<?php echo base_url(); ?>images/logo-big.png" class="img-fluid" alt="Muay Thai in Koh Samui">
+							<img src="<?php echo base_url(); ?>images/bangkokfighthouse.png" class="img-fluid" alt="Muay Thai in Bangkok">
 							<h1>
-								The place to train Muay Thai in Koh Samui
+								The place to train Muay Thai in Bangkok
 						</h1>
 					</div>
 				
@@ -51,7 +51,7 @@
 		<!-- Page Sub Menu
 		============================================= -->
 		
-		<div id="page-menu" class="dots-menu hidden-xs hidden-sm">
+		<!-- <div id="page-menu" class="dots-menu hidden-xs hidden-sm">
 
 			<div id="page-menu-wrap">
 
@@ -74,10 +74,16 @@
 			</div>
 
 		</div>
+	-->
 		
 		<!-- #page-menu end -->
 
 		<div class="clear"></div>
+
+
+
+
+
 
 		<section id="section-intro" class="section nopadding nomargin noborder ohidden">
 
@@ -93,12 +99,12 @@
 						</h2>
 
 						<p class="t300" style="line-height: 1.8; background-color: rgba(0,0,0,0.45); padding:20px;">
-							Whether you’re living in Samui and looking to shake up your fitness programme or visiting for a 
-							few weeks holiday, why not let Samui Fight House take your fitness to an entirely different level?
+							Whether you’re living in Bangkok and looking to shake up your fitness programme or visiting for a 
+							few weeks holiday, why not let Bangkok Fight House take your fitness to an entirely different level?
 							Sean and his team provide personal instruction in Muay Thai,
 							Brazilian Jiu-Jitsu (BJJ), Mixed Martial Arts (MMA) and Boxing. Whether your goal
 							is weight loss, increased cardiovascular activity or just more confidence, a workout
-							with Samui Fight House will leave you empowered and with a smile on your (sweaty!) face.
+							with Bangkok Fight House will leave you empowered and with a smile on your (sweaty!) face.
 						</p>	
 
 					</div>
@@ -137,7 +143,7 @@
 						</h2>
 						<p class="t300" style="line-height: 1.8; background-color: rgba(0,0,0,0.45); padding:20px;">
 							Due to the popularity of MMA and Muay Thai in Thailand, there are many gyms in
-							Samui that advertise training. Samui Fight House stands out not just because of the
+							Bangkok that advertise training. Bangkok Fight House stands out not just because of the
 							quality of instruction but because its maximum public class size is limited to 10. This
 							small size ensures you will receive a high quality of training and individual attention.
 							One-to- one personal sessions are also available either on site or in the privacy of your own home or hotel.
@@ -164,7 +170,7 @@
 
 							<h2>Our Team</h2>
 							<p class="lead">
-								<span class="yellow">SAMUI FIGHT HOUSE</span> has recruited the best trainers from around the world to its gym. In order to make you a successful fighter or just to get you in the most fit shape you've ever been, we ensure our instructors have the right knowledge and experience to work one-on-one with our students to achieve their personal goals.
+								<span class="yellow">BANGKOK FIGHT HOUSE</span> has recruited the best trainers from around the world to its gym. In order to make you a successful fighter or just to get you in the most fit shape you've ever been, we ensure our instructors have the right knowledge and experience to work one-on-one with our students to achieve their personal goals.
 								</p>
 							</div>
 							
@@ -192,7 +198,7 @@
 
 							<h2>Our House</h2>
 							<p class="lead">
-								<span class="yellow">SAMUI FIGHT HOUSE</span>
+								<span class="yellow">BANGKOK FIGHT HOUSE</span>
 							</p>
 						</div>
 						<div class="center dark">
@@ -248,7 +254,7 @@
 											<a href="#"><img src="images/sam.png" alt="Customer Testimonails"></a> 
 										</div> -->
 										<p class="t300">
-											As a complete newbie to Muay Thai, I feel incredibly lucky to have trained with Sean. His passion for the sport combined with his attention to detail means I have learned correct movements from the beginning. Sean tailors every session to the client so, if you're fit, expect some gruelling sessions! But his humour and enthusiasm will inspire you to dig deep and before you know it, you'll be hooked! Samui Fight House also offers excellent jiu jitsu training and if you get the chance to roll with Pablo, grab the opportunity. His patience and enthusiasm are limitless (they needed to be!). For females, besides being unbelievably fun, the hardcore workouts at SFH could prove invaluable from a self defense perspective. If you're in Samui for a holiday and fancy something different, you should definitely book some sessions with Sean and his team.
+											As a complete newbie to Muay Thai, I feel incredibly lucky to have trained with Sean. His passion for the sport combined with his attention to detail means I have learned correct movements from the beginning. Sean tailors every session to the client so, if you're fit, expect some gruelling sessions! But his humour and enthusiasm will inspire you to dig deep and before you know it, you'll be hooked! Bangkok Fight House also offers excellent jiu jitsu training and if you get the chance to roll with Pablo, grab the opportunity. His patience and enthusiasm are limitless (they needed to be!). For females, besides being unbelievably fun, the hardcore workouts at SFH could prove invaluable from a self defense perspective. If you're in Bangkok for a holiday and fancy something different, you should definitely book some sessions with Sean and his team.
 										</p>
 										<div class="testi-meta">
 												Sam, IT Consultant
@@ -267,7 +273,7 @@
 
 							<h2>Testimonials</h2>
 							<p class="lead">
-								<span class="yellow">SAMUI FIGHT HOUSE</span> has successfully trained people from all over the world.  People from different cultures and vastly different backgrounds have all enjoyed their time with us.
+								<span class="yellow">BANGKOK FIGHT HOUSE</span> has successfully trained people from all over the world.  People from different cultures and vastly different backgrounds have all enjoyed their time with us.
 							</p>
 						</div>
 						<div class="center dark">
@@ -289,7 +295,7 @@
 
 					<div class="heading-block">
 						<h2>Prices List</h2>
-						<p class="lead"><span style="color:yellow;">SAMUI FIGHT HOUSE</span></p>
+						<p class="lead"><span style="color:yellow;">Bangkok FIGHT HOUSE</span></p>
 					</div>
 
 					<div class="pricing pricing-5 bottommargin clearfix">
